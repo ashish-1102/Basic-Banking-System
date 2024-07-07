@@ -1,0 +1,19 @@
+{
+  "name": "basic-banking-system",
+  "version": "1.0.0",
+  "description": "Basic banking system for grip",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Kumar Ashish\"",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/ashish-1102/Basic-Banking-System"
+  },
+  "keywords": [],
+  "dependencies": {
+    "portfolio": "^0.1.0"
+  }
+}
