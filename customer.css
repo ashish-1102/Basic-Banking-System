@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #6DC5D1;
+}
+
+.bg-light{
+    background-color: #ffff!important;
+}
+
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #DD761C!important;
+}
+
+.nav-link{
+    color: #01070f!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #ccc2c2;
+}
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: #ffffff!important;
+    color: #000000!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: #DD761C!important;
+}
